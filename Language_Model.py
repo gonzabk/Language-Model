@@ -1,0 +1,1 @@
+# The main objective of this code is to build a simple language model in Pytorch
