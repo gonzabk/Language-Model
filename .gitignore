@@ -1,0 +1,14 @@
+# Ignore the datasets directory
+datasets/
+
+# Ignore any backup or temporary files
+*.bak
+*.tmp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore checkpoints or intermediate files
+*.ckpt
+*.log
