@@ -1,5 +1,5 @@
 # Ignore the datasets directory
-datasets/
+dataset/
 test/
 
 # Ignore any backup or temporary files
