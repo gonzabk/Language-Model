@@ -1,5 +1,6 @@
 # Ignore the datasets directory
 datasets/
+test/
 
 # Ignore any backup or temporary files
 *.bak
